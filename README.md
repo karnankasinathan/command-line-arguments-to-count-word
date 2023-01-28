@@ -23,8 +23,8 @@ Use len() to find the total words.
 ### Step 6: 
 Run the program to determine the number of words in the file created.
 
-PROGRAM:
-```
+## PROGRAM:
+```python
 #program is developed: KARNAN K
 # REF.NO: 22003223
 import sys
@@ -37,7 +37,9 @@ print("program is developed: SATHISH.R")
 print("word count in file = ",count)
 ```
 ### OUTPUT:
-
+![output](cmd.png)
+## TEST FILE:
+![test](cmd2.jpeg)
 
 
 ## RESULT:
